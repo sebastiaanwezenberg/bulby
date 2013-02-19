@@ -1,6 +1,6 @@
 <img src="http://img827.imageshack.us/img827/6774/bulby.png" width="150px">
 
-# [Bulby v0.1](http://github.com/sebastiaanwezenberg/bulby)
+# [Bulby v0.1](http://sebastiaanwezenberg.github.com/bulby)
 =====
 
 Bulby is a sleek, intuitive, and powerful front-end framework for faster and easier home automation!
